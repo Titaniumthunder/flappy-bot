@@ -185,3 +185,6 @@ checkpoints/
 .venv/
 __pycache__/
 *.png
+.claude/
+.DS_Store
+tb_logs/
